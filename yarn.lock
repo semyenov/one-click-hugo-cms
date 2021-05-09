@@ -5198,10 +5198,10 @@ https-browserify@^1.0.0:
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
-hugo-bin@^0.67.0:
-  version "0.67.1"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.67.1.tgz#110e7200a895a4094083d5954c17c563a836bd19"
-  integrity sha512-9PRyXRu+yZ7LCnx7s2TOVwtvIXxphEtYtQkPiLtQc/5CVu5g34JZslgCqtvrmFsjWE2OonG1YUFPZf4/p6ewPA==
+hugo-bin@^0.71.0:
+  version "0.71.1"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.71.1.tgz#a581f33ed9fc0aaff3baf5d04239d6778ea3e3a3"
+  integrity sha512-H+aBkwtR6oSMcu1kCyzQlan+lcQ45k70JGX4v72h8mb0e4AbvaF58kAy6EDRK/U+/hD6ghTf0a6eLr5sENjaAg==
   dependencies:
     bin-wrapper "^4.1.0"
     pkg-conf "^3.1.0"
